@@ -1,5 +1,5 @@
 # Sticks-Project
-Game of sticks against an AI 
+Game of sticks against an AI for CSC-106
 
 First file is a plain game of sticks versus two players
 
